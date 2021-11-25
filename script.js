@@ -19,6 +19,7 @@ function soal2() {
 }
 
 function soal3() {
+    alert('Saya agak kesulitan untuk bagian ini, namun sedikit bekerja untuk bilangan kecil dan masih bug untuk bilangan besar')
     let a = parseInt(prompt("Masukan Bilangan A"));
     let b = parseInt(prompt("Masukan Bilangan B"));
     function kotak(a, b) {
